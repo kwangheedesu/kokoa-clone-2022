@@ -21,10 +21,13 @@
 @import "screens/settings.css";
 @import "screens/chat.css";
 
+
+
 body {
     color: #2e363e;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'IBM Plex Sans KR', sans-serif;
     height: 130vh;
+    background-color: rgb(225, 225, 245);
    
 }
 
